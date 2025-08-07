@@ -37,17 +37,16 @@ As atividades envolvem:
 
 
 ## 📁 Estrutura de pastas
-
-Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
-
-- <b>assets</b>: arquivos relacionados a elementos visuais e recursos não estruturados (ex: logotipo da FIAP).
-
-- <b>document</b>: documentos do projeto exigidos pelas entregas do PBL, com uma subpasta "other" para materiais complementares.
-
-- <b>src</b>: código-fonte do projeto. Inclui o Jupyter Notebook principal da Fase 4 (`pbl_fase4.ipynb`), scripts auxiliares (se houver) e base de dados.
-
-- <b>README.md</b>: arquivo atual, com informações detalhadas sobre o projeto, estrutura, execução e histórico.
-
+```
+.
+├── assets/
+├── dados/
+│   └── crop_yield.csv
+├── notebooks/
+│   ├── .ipynb_checkpoints/
+│   └── jupyter notebook VitorEiji_rm562099_pbl_fase4
+└── README.md
+```
 ## 🔧 Como executar o código
 
 ### Pré-requisitos
@@ -65,12 +64,13 @@ https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-c
 ```
 2 - execute o notebook 
 ```
-jupyter notebook VitorEiji_rmXXXXXX_pbl_fase4.ipynb
+jupyter notebook VitorEiji_rm562099_pbl_fase4.ipynb
 ```
 ## 🗃 Histórico de lançamentos
     
 * 0.1.0 - 05/08/2024
     *
+* 0.2.0 - 07/08/2024
 
 ## 📋 Licença
 
