@@ -97,9 +97,6 @@ A instância utilizada na comparação possui as seguintes características:
 * A instância em Virginia do Norte é mais barata, porém a região de São Paulo oferece menor **latência** para usuários no Brasil.
 * A escolha da região também é influenciada por **restrições legais**, já que a LGPD exige cuidado no armazenamento de dados sensíveis de cidadãos brasileiros.
 
-![Gráfico de comparação de custos](URL_DO_GRAFICO_AQUI)
-*Gráfico ilustrativo do custo mensal das duas regiões.*
-
 ---
 
 ## 3. Justificativa Técnica
