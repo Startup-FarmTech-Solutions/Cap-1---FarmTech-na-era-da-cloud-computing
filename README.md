@@ -93,6 +93,10 @@ Para hospedar nossa API de Machine Learning, usamos a **AWS Pricing Calculator**
 
 ![AWS Pricing Calculator - São Paulo](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/blob/main/assets/sao_paulo_1.png)
 
+![AWS Pricing Calculator - São Paulo](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/blob/main/assets/sao_paulo_2.png)
+
+![AWS Pricing Calculator - São Paulo](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/blob/main/assets/sao_paulo_3.png)
+
 
 Link do vídeo demonstrativo: [YouTube – comparação de regiões](https://youtu.be/seu_link_nao_listado)
 
