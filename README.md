@@ -87,9 +87,9 @@ Para hospedar nossa API de Machine Learning, usamos a **AWS Pricing Calculator**
 
 ![AWS Pricing Calculator - São Paulo](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/raw/main/assets/viginia_1.png)
 
-![AWS Pricing Calculator - São Paulo](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/raw/main/assets/viginia_2.png)
+![AWS Pricing Calculator - São Paulo](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/blob/main/assets/virginia_2.png)
 
-![AWS Pricing Calculator - São Paulo](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/raw/main/assets/viginia_3.png)
+![AWS Pricing Calculator - São Paulo](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/blob/main/assets/virginia_3.png)
 
 <iframe src="https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/blob/main/assets/Edit%20Amazon%20EC2.pdf" width="800" height="600" style="border:1px solid #ccc;" scrolling="yes"></iframe>
 
