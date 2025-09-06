@@ -66,6 +66,31 @@ https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-c
 ```
 jupyter notebook VitorEiji_rm562099_pbl_fase4.ipynb
 ```
+
+## Entrega 2 – Comparação de custos na AWS
+
+Para hospedar nossa API de Machine Learning, usamos a **AWS Pricing Calculator** com uma instância Linux:
+
+- 2 vCPUs
+- 1 GiB de memória
+- Até 5 Gbps de rede
+- 50 GB de armazenamento
+
+### Estimativa de custos (On-Demand)
+
+| Região                  | Custo Mensal (USD) |
+|-------------------------|------------------|
+| São Paulo (BR)          | 25,00            |
+| Virginia do Norte (EUA) | 18,00            |
+
+> Apesar de Virginia do Norte ser mais barata, escolhemos **São Paulo (BR)** devido à **baixa latência e restrições legais de dados locais**.
+
+![AWS Pricing Calculator - São Paulo](imagens/aws_sao_paulo.png)
+<iframe src="assets/Edit Amazon EC2.pdf" width="600" height="400"></iframe>
+
+
+Link do vídeo demonstrativo: [YouTube – comparação de regiões](https://youtu.be/seu_link_nao_listado)
+
 ## 🗃 Histórico de lançamentos
     
 * 0.1.0 - 05/08/2024
