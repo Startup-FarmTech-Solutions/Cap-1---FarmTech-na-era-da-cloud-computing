@@ -80,8 +80,8 @@ Para hospedar nossa API de Machine Learning, usamos a **AWS Pricing Calculator**
 
 | Região                  | Custo Mensal (USD) |
 |-------------------------|------------------|
-| São Paulo (BR)          | 25,00            |
-| Virginia do Norte (EUA) | 18,00            |
+| São Paulo (BR)          | 17,38            |
+| Virginia do Norte (EUA) | 11,13           |
 
 > Apesar de Virginia do Norte ser mais barata, escolhemos **São Paulo (BR)** devido à **baixa latência e restrições legais de dados locais**.
 
