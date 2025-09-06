@@ -86,7 +86,8 @@ Para hospedar nossa API de Machine Learning, usamos a **AWS Pricing Calculator**
 > Apesar de Virginia do Norte ser mais barata, escolhemos **São Paulo (BR)** devido à **baixa latência e restrições legais de dados locais**.
 
 ![AWS Pricing Calculator - São Paulo](imagens/aws_sao_paulo.png)
-<iframe src="assets/Edit Amazon EC2.pdf" width="600" height="400"></iframe>
+<iframe src="assets/Edit Amazon EC2.pdf" width="800" height="600" style="border:1px solid #ccc;" scrolling="yes"></iframe>
+
 
 
 Link do vídeo demonstrativo: [YouTube – comparação de regiões](https://youtu.be/seu_link_nao_listado)
