@@ -69,21 +69,68 @@ jupyter notebook VitorEiji_rm562099_pbl_fase4.ipynb
 
 ## Entrega 2 – Comparação de custos na AWS
 
-Para hospedar nossa API de Machine Learning, usamos a **AWS Pricing Calculator** com uma instância Linux:
+## 1. Introdução
 
-- 2 vCPUs
-- 1 GiB de memória
-- Até 5 Gbps de rede
-- 50 GB de armazenamento
+Este documento apresenta a comparação de custos entre duas regiões da AWS para hospedar nossa API de Machine Learning: **São Paulo (BR)** e **Virginia do Norte (EUA)**.
+O objetivo é avaliar a melhor opção considerando **custos, latência e requisitos legais de armazenamento de dados**.
 
-### Estimativa de custos (On-Demand)
+A instância utilizada na comparação possui as seguintes características:
+
+* Sistema operacional: Linux
+* 2 vCPUs
+* 1 GiB de memória RAM
+* Até 5 Gbps de rede
+* 50 GB de armazenamento
+* Modelo de cobrança: On-Demand
+
+---
+
+## 2. Comparação de Custos
 
 | Região                  | Custo Mensal (USD) |
-|-------------------------|------------------|
-| São Paulo (BR)          | 17,38            |
-| Virginia do Norte (EUA) | 11,13           |
+| ----------------------- | ------------------ |
+| São Paulo (BR)          | 17,38              |
+| Virginia do Norte (EUA) | 11,13              |
 
-> Apesar de Virginia do Norte ser mais barata, escolhemos **São Paulo (BR)** devido à **baixa latência e restrições legais de dados locais**.
+**Observações:**
+
+* A instância em Virginia do Norte é mais barata, porém a região de São Paulo oferece menor **latência** para usuários no Brasil.
+* A escolha da região também é influenciada por **restrições legais**, já que a LGPD exige cuidado no armazenamento de dados sensíveis de cidadãos brasileiros.
+
+![Gráfico de comparação de custos](URL_DO_GRAFICO_AQUI)
+*Gráfico ilustrativo do custo mensal das duas regiões.*
+
+---
+
+## 3. Justificativa Técnica
+
+Apesar do custo mensal mais elevado em São Paulo (USD 17,38 contra USD 11,13 em Virginia), a região brasileira foi escolhida pelos seguintes motivos:
+
+1. **Latência reduzida:** A proximidade geográfica garante respostas mais rápidas da API para sensores e usuários no Brasil.
+2. **Compliance legal:** A legislação brasileira exige que certos dados sensíveis sejam armazenados localmente, evitando riscos legais ao hospedar fora do país.
+3. **Manutenção e suporte:** A região de São Paulo possui suporte e data centers que atendem diretamente o mercado brasileiro, facilitando monitoramento e manutenção.
+
+**Conclusão:**
+A escolha da região **São Paulo (BR)** equilibra desempenho, segurança e conformidade legal, apesar de um custo levemente superior.
+
+---
+
+## 4. Vídeo Demonstrativo
+
+O vídeo explicativo da comparação de custos, incluindo a demonstração da AWS Pricing Calculator e a justificativa da escolha, está disponível no YouTube:
+
+[Link do vídeo “não listado”](URL_DO_VIDEO_AQUI)
+
+**Duração:** até 5 minutos
+
+---
+
+## 5. Referências
+
+* [AWS Pricing Calculator](https://calculator.aws/#/?nc2=h_pr_calc)
+* [LGPD – Lei Geral de Proteção de Dados](https://www.gov.br/secretariageral/pt-br/lgpd)
+
+
 
 ![AWS Pricing Calculator - Virginia](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/raw/main/assets/viginia_1.png)
 
@@ -97,8 +144,6 @@ Para hospedar nossa API de Machine Learning, usamos a **AWS Pricing Calculator**
 
 ![AWS Pricing Calculator - São Paulo](https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing/blob/main/assets/sao_paulo_3.png)
 
-
-Link do vídeo demonstrativo: [YouTube – comparação de regiões](https://youtu.be/seu_link_nao_listado)
 
 ## 🗃 Histórico de lançamentos
     
