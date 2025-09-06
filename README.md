@@ -25,16 +25,17 @@ FIAP - Faculdade de Informática e Administração Paulista
 
 ## 📜 Descrição
 
-Este projeto tem como objetivo utilizar algoritmos de Inteligência Artificial para analisar dados de clima e solo de uma fazenda de médio porte (200 hectares), com o intuito de prever o rendimento agrícola de diversas culturas.
 
-As atividades envolvem:
+Este projeto tem como objetivo aplicar **Inteligência Artificial** para análise de dados agrícolas (clima e solo), permitindo prever o rendimento de diferentes culturas em uma fazenda de médio porte.  
 
-- Análise exploratória dos dados climáticos e de solo;
-- Detecção de padrões e agrupamentos por meio de clusterização;
-- Modelagem preditiva com cinco algoritmos diferentes de regressão supervisionada;
-- Avaliação dos modelos com métricas adequadas (R², MAE, RMSE etc.);
-- Apresentação de conclusões, limitações e recomendações com base nos resultados obtidos.
+Toda a **documentação detalhada, análises, gráficos e modelagens preditivas** estão disponíveis no **notebook Jupyter** presente neste repositório.  
 
+📌 [Acesse o notebook principal](notebooks/jupyter%20notebook%20VitorEiji_rm562099_pbl_fase4.ipynb)  
+
+## 🎥 Demonstração em Vídeo  
+
+Confira a apresentação do projeto no YouTube (link não listado):  
+👉 [Assista aqui](https://youtu.be/SEU-LINK-AQUI)  
 
 ## 📁 Estrutura de pastas
 ```
@@ -49,24 +50,25 @@ As atividades envolvem:
 ```
 ## 🔧 Como executar o código
 
-### Pré-requisitos
-- Python 3.10+
-- Jupyter Notebook ou JupyterLab
-- Bibliotecas utilizadas:
-  - pandas, numpy, matplotlib, seaborn
-  - scikit-learn
- 
- ### passo a passo 
+### Pré-requisitos  
+- Python 3.10+  
+- Jupyter Notebook ou JupyterLab  
+- Bibliotecas: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`  
 
- 1 - clone o repositório
-```
-https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing.git
-```
-2 - execute o notebook 
-```
-jupyter notebook VitorEiji_rm562099_pbl_fase4.ipynb
-```
+### Passo a passo  
 
+# Clone o repositório
+```
+git clone https://github.com/Startup-FarmTech-Solutions/Cap-1---FarmTech-na-era-da-cloud-computing.git
+```
+# Acesse a pasta
+```
+cd Cap-1---FarmTech-na-era-da-cloud-computing/notebooks
+```
+# Execute o notebook
+```
+jupyter notebook "jupyter notebook VitorEiji_rm562099_pbl_fase4.ipynb"
+```
 ## Entrega 2 – Comparação de custos na AWS
 
 ## 1. Introdução
