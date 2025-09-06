@@ -69,8 +69,11 @@ jupyter notebook VitorEiji_rm562099_pbl_fase4.ipynb
 ## 🗃 Histórico de lançamentos
     
 * 0.1.0 - 05/08/2024
-    *
+    
 * 0.2.0 - 07/08/2024
+*     
+* 0.3.0 - 06/09/2024 - esse modelo contitui a predivisão com modelos binarizados do csv
+  
 
 ## 📋 Licença
 
