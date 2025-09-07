@@ -118,7 +118,7 @@ A escolha da região **São Paulo (BR)** equilibra desempenho, segurança e conf
 
 O vídeo explicativo da comparação de custos, incluindo a demonstração da AWS Pricing Calculator e a justificativa da escolha, está disponível no YouTube:
 
-[Link do vídeo “não listado”](URL_DO_VIDEO_AQUI)
+[Link do vídeo “não listado”](https://youtu.be/ENelyJTG-8c?si=jKSs6x4WXOOvOoc-)
 
 **Duração:** até 5 minutos
 
