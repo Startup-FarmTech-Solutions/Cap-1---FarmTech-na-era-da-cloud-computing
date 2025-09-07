@@ -35,7 +35,7 @@ Toda a **documentação detalhada, análises, gráficos e modelagens preditivas*
 ## 🎥 Demonstração em Vídeo  
 
 Confira a apresentação do projeto no YouTube (link não listado):  
-👉 [Assista aqui](https://youtu.be/SEU-LINK-AQUI)  
+👉 [Assista aqui](https://www.youtube.com/watch?v=UXs3MrxRIuU&list=WL&index=1&t=6s)  
 
 ## 📁 Estrutura de pastas
 ```
